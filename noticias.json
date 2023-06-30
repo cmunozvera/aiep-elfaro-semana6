@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Título de la noticia 1",
+    "category": "Categoría de la noticia 1",
+    "description": "Descripción de la noticia 1"
+  },
+  {
+    "title": "Título de la noticia 2",
+    "category": "Categoría de la noticia 2",
+    "description": "Descripción de la noticia 2"
+  },
+  ...
+]
